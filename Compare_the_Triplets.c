@@ -74,11 +74,9 @@ int* compareTriplets(int a_count, int* a, int b_count, int* b, int* result_count
             if (i == 1)
           {
               *(c + i) = b_count;
-          }
-          
+          }  
           
       }
 
     return c;
-
 }
