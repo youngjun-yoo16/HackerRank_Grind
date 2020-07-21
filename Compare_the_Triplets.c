@@ -43,6 +43,7 @@ char** split_string(char*);
  * }
  *
  */
+
 int* compareTriplets(int a_count, int* a, int b_count, int* b, int* result_count) {
 
     a_count = 0;
