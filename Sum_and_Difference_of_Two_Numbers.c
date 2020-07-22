@@ -5,9 +5,9 @@
 
 int main()
 {
-	  int a, b;
+    int a, b;
     float c, d;
-
+	
     scanf("%d %d\n", &a, &b);
     scanf("%f %f\n", &c, &d);
     
@@ -24,5 +24,5 @@ int main()
 Sample Output
 
 14 6
-6.0 2.0*?
+6.0 2.0*/
 
