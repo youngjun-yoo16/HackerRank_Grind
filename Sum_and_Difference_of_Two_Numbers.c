@@ -21,6 +21,7 @@ int main()
 
 10 4
 4.0 2.0
+
 Sample Output
 
 14 6
