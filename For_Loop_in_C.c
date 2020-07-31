@@ -30,3 +30,17 @@ int main()
 
     return 0;
 }
+
+/* Sample Input
+
+8
+11
+
+
+Sample Output
+
+eight
+nine
+even
+odd */
+
