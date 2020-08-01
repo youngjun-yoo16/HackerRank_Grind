@@ -1,3 +1,13 @@
+/* Task
+Given set {1, 2, 3, . . . , n}, find:
+
+the maximum value of a & b which is less than a given integer , where  and  (where a < b) are two integers from set .
+
+the maximum value of a | b which is less than a given integer , where  and  (where a < b) are two integers from set .
+
+the maximum value of a ^ b which is less than a given integer , where  and  (where a < b) are two integers from set . */
+
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -36,14 +46,4 @@ int main() {
  
     return 0;
 }
-
-
-/* Task
-Given set {1, 2, 3, . . . , n}, find:
-
-the maximum value of a & b which is less than a given integer , where  and  (where a < b) are two integers from set .
-
-the maximum value of a | b which is less than a given integer , where  and  (where a < b) are two integers from set .
-
-the maximum value of a ^ b which is less than a given integer , where  and  (where a < b) are two integers from set . */
 
